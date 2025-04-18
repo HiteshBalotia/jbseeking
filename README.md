@@ -40,9 +40,7 @@ The Job Recommender System uses the following libraries:
 - Pandas: [Pandas' GitHub repository](https://github.com/pandas-dev/pandas)
 - scikit-learn: [scikit-learn's GitHub repository](https://github.com/scikit-learn/scikit-learn)
 
-### Contact
 
-For any questions or feedback, feel free to reach out to saeedmaiga7@gmail.com or bonifacechosen100@gmail.com.
 
 ### Screenshots
 
